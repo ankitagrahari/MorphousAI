@@ -1,0 +1,17 @@
+server:
+  port: 7810
+
+spring:
+  application:
+    name: MorphousAI
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
+      chat:
+        base-url: https://api.openai.com
+        model: mistral
+vaadin:
+  launch-browser: true
+  allowed-packages: com.vaadin,org.vaadin,com.flowingcode,org.backendbrilliance.morphousai
+
+
