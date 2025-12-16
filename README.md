@@ -2,7 +2,7 @@
 
 **MorphousAI** is a simple and intuitive AI application that lets you **upload images**, **generate images from text**, and **convert text to audio** — all powered by **OpenAI APIs**.
 
-This project showcases how you can build a multi-modal AI tool using OpenAI capabilities to handle **image generation**, **text-to-image**, and **text-to-speech** workflows.  [oai_citation:1‡GitHub](https://github.com/ankitagrahari/MorphousAI)
+This project showcases how you can build a multi-modal AI tool using OpenAI capabilities to handle **image generation**, **text-to-image**, and **text-to-speech** workflows.  [GitHub](https://github.com/ankitagrahari/MorphousAI)
 
 ---
 
@@ -149,7 +149,7 @@ If you have questions, feel free to reach out:
 
 Ankit Agrahari –
 💬 GitHub: https://github.com/ankitagrahari
-📎 Email: (optional link or your email here)
+📎 Email: (ankitagrahari.rkgit@gmail.com)
 
 ⸻
 
